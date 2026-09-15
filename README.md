@@ -43,7 +43,7 @@ I build web interfaces and applications using **JavaScript**, **TypeScript**, **
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaydee00000007&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaydee00000007&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Jaydee00000007&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
