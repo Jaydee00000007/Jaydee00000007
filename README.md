@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://opeyemi-portfolio1.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="mailto:adeparusiopeyemi@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:adeparusiopeyemi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -35,7 +35,7 @@ I build web interfaces and applications using **JavaScript**, **TypeScript**, **
 | 💼 [Jaydee Portfolio](https://github.com/Jaydee00000007/Jaydee-Portfolio) | My personal portfolio site | TypeScript | React
 | 📋 [Jobboard](https://github.com/Jaydee00000007/Jobboard) | A job board application | Vue |
 | 🧮 [Calculator](https://github.com/Jaydee00000007/Calculator) | Compound interest calculator | CSS | Javascript
-| 🌐 [Tunga](https://github.com/Jaydee00000007/Tunga) | Web project built with HTML | CSS | Javascript
+| 🌐 [Tunga](https://github.com/Jaydee00000007/Tunga) | Web project built with HTML |  |
 
 ---
 
